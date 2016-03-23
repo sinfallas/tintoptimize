@@ -1,4 +1,22 @@
-commit f7774720e523597cca33fccdf53c219a17ba8d13 (HEAD, origin/master, origin/HEAD, master)
+commit 42ef715cc14ae7b684fc7e4d6c0895ec7d666445 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Mar 23 00:19:05 2016 -0430
+
+    * travis logo
+
+commit 9f9b0b31deebcbd163ba5b551ee1a983dd78d403
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Mar 23 00:17:54 2016 -0430
+
+    * zenodo y travis
+
+commit 61d37878a5e736d8c2e584a6de10dd1aecb1a0ac
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Mar 23 00:11:44 2016 -0430
+
+    * changelog
+
+commit f7774720e523597cca33fccdf53c219a17ba8d13
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Mar 23 00:11:21 2016 -0430
 
