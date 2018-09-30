@@ -1,4 +1,10 @@
-commit 42ef715cc14ae7b684fc7e4d6c0895ec7d666445 (HEAD, origin/master, origin/HEAD, master)
+commit 063fe0cccc6f69a0713171bc778b7f7b78e15f4d (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Mar 23 00:19:20 2016 -0430
+
+    * changelog
+
+commit 42ef715cc14ae7b684fc7e4d6c0895ec7d666445
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Mar 23 00:19:05 2016 -0430
 
@@ -10,7 +16,7 @@ Date:   Wed Mar 23 00:17:54 2016 -0430
 
     * zenodo y travis
 
-commit 61d37878a5e736d8c2e584a6de10dd1aecb1a0ac
+commit 61d37878a5e736d8c2e584a6de10dd1aecb1a0ac (tag: v1.0)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Mar 23 00:11:44 2016 -0430
 
